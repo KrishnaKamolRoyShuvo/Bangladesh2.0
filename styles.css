@@ -370,6 +370,7 @@
     background-color: #C6E4D6;
 }
 #cd{
+    border: none;
     display: block;
     margin: auto;
     font-size: 20px;
